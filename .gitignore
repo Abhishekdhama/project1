@@ -1,16 +1,3 @@
-# Ignore Python cache files
-__pycache__/
-*.pyc
-*.pyo
-
-# Ignore environment variables and virtual environments
-.env
-venv/
-myenv/
-
-# Ignore data files
-data/
-
-# Ignore Docker-related files
-*.log
-*.pid
+__pycache__ 
+.env 
+data/ 
